@@ -6,8 +6,8 @@
     "modelProvider": "openai",
     "settings": {
       "secrets": {
-        "DISCORD_APPLICATION_ID": "1342473596605562941",
-        "DISCORD_API_TOKEN": "MTM0MjQ3MzU5NjYwNTU2Mjk0MQ.GoGLjf.vnE6a9xR59x3_ZvoKh36546LTZWN1u_d1MGrjg"
+        "DISCORD_APPLICATION_ID": 
+        "DISCORD_API_TOKEN": 
       },
       "voice": {
         "model": "en_US-male-medium"
